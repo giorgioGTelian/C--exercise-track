@@ -1,2 +1,2 @@
-# C--exercise-track
+# C# exercise-track
 from free academy
